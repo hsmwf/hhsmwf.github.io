@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jonathan Hellwig # the website title (if blank, full name will be used instead)
-first_name: Jonathan 
+title: Hossam Boudraa # the website title (if blank, full name will be used instead)
+first_name: Hossam 
 middle_name:
-last_name: Hellwig
+last_name: Boudraa
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A portfolio website.
