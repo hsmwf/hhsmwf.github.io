@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: gore_cut.jpg
+  image: hossam_boudraa.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
