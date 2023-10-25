@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About me
+title: About 
 permalink: /
 subtitle: 
 
@@ -14,8 +14,19 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a Ph.D. researcher at the Karlsruhe Institute of Technology (KIT) in Germany, affiliated with the **"Logic of Autonomous Dynamical Systems"** research group. My primary research area centers around formal verification techniques for autonomous systems, with a specific interest in their application to robotics.
+I am trained as a data scientist during my undergrad at UCSD, so I’m part mathematician and part programmer 🧑‍🤝‍🧑. Right now, I consider myself as an applied researcher in the domain of machine learning and artificial intelligence, because there are a lot of exciting work in this field. 
 
-Before starting my Ph.D. at KIT, I earned a degree in Industrial Mathematics. During my academic journey, I developed a deep interest in robotics and machine learning. Notably, I was a member of the RoboCup SPL team HULKs e.V., where I focused on key aspects such as localization, sensor fusion, and object detection, all aimed at enhancing game state representation. This experience also allowed me to collaborate effectively within an interdisciplinary team, primarily comprising Computer Science students.
+Currently, I am a graduate student at the University of Toronto’s Master of Science in Applied Computing program with a concentration in computer science.
 
-As a Ph.D. researcher at KIT, my current research focuses on advancing **formal verification** techniques for autonomous systems, particularly in the context of **robotics**. If you would like to get in touch or explore potential **collaborations**, please feel free to reach out to me at **jonathan[dot]hellwig[at]kit[dot]edu**.
+Some of my areas of interest are:
+
+Machine reasoning and reinforcement learning 🧠
+Application of graph neural network (GNN) 🌳
+Generative modeling method ♺
+and more…
+More specifically, I have done research/projects in:
+
+Model neuron activation dynamics with ML method 🧬
+Generate Graph adversarial examples with WGAN 🤺
+Image caption generation on user uploaded pictures 📱
+If you are interested in my experience and projects, please take a look at my project page and cv, also feel free to reach out to me at **jonathan[dot]hellwig[at]kit[dot]edu**  
